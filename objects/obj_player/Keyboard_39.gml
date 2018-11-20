@@ -7,3 +7,9 @@
 /// @DnDArgument : "y_relative" "1"
 x += base_spd;
 y += 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 7C22847E
+/// @DnDArgument : "var" "current_direction"
+current_direction = 0;

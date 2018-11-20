@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 40D8C28E
-/// @DnDInput : 9
+/// @DnDInput : 10
 /// @DnDArgument : "expr" "100"
 /// @DnDArgument : "expr_1" "max_hp"
 /// @DnDArgument : "expr_2" "100"
@@ -20,6 +20,7 @@
 /// @DnDArgument : "var_6" "intellect"
 /// @DnDArgument : "var_7" "defense"
 /// @DnDArgument : "var_8" "base_spd"
+/// @DnDArgument : "var_9" "current_direction"
 max_hp = 100;
 hp = max_hp;
 max_mp = 100;
@@ -29,3 +30,4 @@ dexterity = 5;
 intellect = 5;
 defense = 5;
 base_spd = 4;
+current_direction = 0;
