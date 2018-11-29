@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "12195306-d071-4480-83be-1369a634272a",
+            "Value": {
+                "id": "b7074628-6615-4690-a5a5-6b3cc46daa46",
+                "resourcePath": "sprites\\spr_fisherman_left\\spr_fisherman_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "13e60b5e-6f94-4cb6-98f9-e1a1f8ffc4b1",
             "Value": {
                 "id": "617a1025-2598-44b7-8146-906c166eb97b",
@@ -203,6 +211,14 @@
             "Value": {
                 "id": "640cdadd-20de-4a03-9766-56d83cbf9b61",
                 "resourcePath": "views\\9433f123-a287-4f09-b7c1-36656c890b92.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "94b066cd-5546-4697-9e7a-eed2f53f6d9b",
+            "Value": {
+                "id": "abca6615-5d87-40e0-8309-25fe2ea21888",
+                "resourcePath": "views\\94b066cd-5546-4697-9e7a-eed2f53f6d9b.yy",
                 "resourceType": "GMFolder"
             }
         },
