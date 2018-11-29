@@ -5,13 +5,13 @@
     "name": "obj_farmer",
     "eventList": [
         {
-            "id": "19063db4-6954-4079-8183-cfa9eb6c75e9",
+            "id": "beccaa17-795c-4cda-92d8-9a1d2928725e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
+            "eventtype": 0,
             "m_owner": "8ee1727f-4e40-4bb8-93ef-20d71bfc7a5a"
         }
     ],

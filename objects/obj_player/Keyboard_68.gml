@@ -17,11 +17,4 @@ if (!l2AF95650_0)
 	/// @DnDArgument : "y_relative" "1"
 	x += base_spd;
 	y += 0;
-
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 19B6D2EA
-	/// @DnDParent : 2AF95650
-	/// @DnDArgument : "var" "current_direction"
-	current_direction = 0;
 }

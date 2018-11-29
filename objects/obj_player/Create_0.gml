@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 40D8C28E
-/// @DnDInput : 10
+/// @DnDInput : 20
 /// @DnDArgument : "expr" "100"
 /// @DnDArgument : "expr_1" "max_hp"
 /// @DnDArgument : "expr_2" "100"
@@ -11,6 +11,16 @@
 /// @DnDArgument : "expr_6" "5"
 /// @DnDArgument : "expr_7" "5"
 /// @DnDArgument : "expr_8" "4"
+/// @DnDArgument : "expr_10" "false"
+/// @DnDArgument : "expr_11" "spr_player"
+/// @DnDArgument : "expr_12" "spr_player"
+/// @DnDArgument : "expr_13" "spr_player"
+/// @DnDArgument : "expr_14" "spr_player"
+/// @DnDArgument : "expr_15" "spr_player"
+/// @DnDArgument : "expr_16" "spr_player"
+/// @DnDArgument : "expr_17" "spr_player"
+/// @DnDArgument : "expr_18" "spr_player"
+/// @DnDArgument : "expr_19" "false"
 /// @DnDArgument : "var" "max_hp"
 /// @DnDArgument : "var_1" "hp"
 /// @DnDArgument : "var_2" "max_mp"
@@ -21,6 +31,16 @@
 /// @DnDArgument : "var_7" "defense"
 /// @DnDArgument : "var_8" "base_spd"
 /// @DnDArgument : "var_9" "current_direction"
+/// @DnDArgument : "var_10" "moving"
+/// @DnDArgument : "var_11" "sprite_left"
+/// @DnDArgument : "var_12" "anim_left"
+/// @DnDArgument : "var_13" "sprite_up"
+/// @DnDArgument : "var_14" "anim_up"
+/// @DnDArgument : "var_15" "sprite_right"
+/// @DnDArgument : "var_16" "anim_right"
+/// @DnDArgument : "var_17" "sprite_down"
+/// @DnDArgument : "var_18" "anim_down"
+/// @DnDArgument : "var_19" "moving"
 max_hp = 100;
 hp = max_hp;
 max_mp = 100;
@@ -31,3 +51,13 @@ intellect = 5;
 defense = 5;
 base_spd = 4;
 current_direction = 0;
+moving = false;
+sprite_left = spr_player;
+anim_left = spr_player;
+sprite_up = spr_player;
+anim_up = spr_player;
+sprite_right = spr_player;
+anim_right = spr_player;
+sprite_down = spr_player;
+anim_down = spr_player;
+moving = false;
