@@ -261,6 +261,14 @@ else
 			
 				/// @DnDAction : YoYo Games.Common.Variable
 				/// @DnDVersion : 1
+				/// @DnDHash : 3CED69AF
+				/// @DnDParent : 645ED97A
+				/// @DnDArgument : "expr" "1"
+				/// @DnDArgument : "var" "image_index"
+				image_index = 1;
+			
+				/// @DnDAction : YoYo Games.Common.Variable
+				/// @DnDVersion : 1
 				/// @DnDHash : 77623C8F
 				/// @DnDParent : 645ED97A
 				/// @DnDArgument : "expr" "false"

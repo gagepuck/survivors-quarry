@@ -4,10 +4,10 @@
     "mvc": "1.1",
     "name": "407333b6-30c8-430a-b9e7-44039f50a987",
     "children": [
-        "e3d88588-0943-462b-9ad2-72399d62e8e3",
-        "e346d7cb-4d4a-411d-8f1a-8c39ca67f053",
-        "13e60b5e-6f94-4cb6-98f9-e1a1f8ffc4b1",
-        "f26f6835-d200-434f-877e-430cdf717034"
+        "71f8d139-af48-45a5-98d8-c2385a2ff864",
+        "e6042850-757c-4073-937a-8a9409eefe63",
+        "a1f8f053-5750-4e0e-a43c-5cc879863f0d",
+        "97b3a5bd-5e96-4845-ab6c-bfa4e869f87a"
     ],
     "filterType": "GMSprite",
     "folderName": "farmer",
