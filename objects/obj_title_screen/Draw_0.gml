@@ -16,7 +16,8 @@ draw_set_valign(fa_top);
 /// @DnDVersion : 1
 /// @DnDHash : 4BBD2371
 draw_set_colour($FFFFFFFF & $ffffff);
-draw_set_alpha(($FFFFFFFF >> 24) / $ff);
+var l4BBD2371_0=($FFFFFFFF >> 24);
+draw_set_alpha(l4BBD2371_0 / $ff);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
