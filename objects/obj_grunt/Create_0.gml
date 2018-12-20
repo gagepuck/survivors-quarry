@@ -11,3 +11,9 @@ hp = 5;
 /// @DnDArgument : "expr" "1.5"
 /// @DnDArgument : "var" "spd"
 spd = 1.5;
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 6A93D718
+/// @DnDArgument : "speed" "spd"
+image_speed = spd;
